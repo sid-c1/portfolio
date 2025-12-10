@@ -21,14 +21,11 @@
     <h5>
         Document Control and IT Management (2022-2023) - <em>NT Killingley</em>
     </h5><br>
-    <h5>
-        App Development and Data Admin (2023-Ongoing) - <em>Little Chicks Daycare</em>
-    </h5>
     
     <br><br><h3>
         <u>
             Education
         </u>
     </h3>
-    BSc in Computer Science with Honours (2:1) - Coventry University
+    BSc in Computer Science with Honours (2:1) - <em>Coventry University</em>
 </div>
