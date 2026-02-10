@@ -20,7 +20,7 @@
         </div>
     </section>
 
-    <section id="projects" class="min-h-screen p-20">
+    <section id="projects" class="min-h-screen md:pl-36 pt-10">
         <h5>
             <a class="text-2xl" href="https://medianon.org" target="_blank">
                 medianon
@@ -83,8 +83,8 @@
             <a href="https://www.geonames.org">GeoNames</a>
         </p>
     </section>
-
-    <section id="skills" class="min-h-screen p-10 text-center">
+    <section id="skills" class="min-h-screen text-center md:pl-24">
+      <br><br>
         <h3><br>
             HTML - CSS - JS <br>
             SvelteKit - Tailwind CSS - Firebase
@@ -114,7 +114,8 @@
         BSc in Computer Science with Honours (2:1) - <em>Coventry University</em>
     </section>
 
-    <section id="contact" class="min-h-screen p-10 ml-3">
+    <section id="contact" class="min-h-screen md:pl-36 pt-10">
+      <br><br>
         <div>
             <form action="https://formsubmit.co/c54003805695bd527f62d07c49094118" method="POST">
                 <fieldset class="grid">
