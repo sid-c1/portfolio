@@ -63,7 +63,7 @@
         <img src={directory} alt="Company Directory">
         <p>
             A CRUD application to manage an SQL database. <br>
-            Consist of three tables: personnel, department and location. <br>
+            Consists of three tables: personnel, department and location. <br>
             Search and filter options to make navigation easier. <br><br>
             Uses: <br>
             HTML/CSS/JS, jQuery, PHP, SQL
